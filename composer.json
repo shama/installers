@@ -28,6 +28,5 @@
     },
     "require-dev": {
         "composer/composer": "1.0.*"
-    },
-    "minimum-stability": "dev"
+    }
 }
